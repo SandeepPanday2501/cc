@@ -1,0 +1,9 @@
+G:\saved\cc\cc\bin\Debug\cc.exe.config
+G:\saved\cc\cc\bin\Debug\cc.exe
+G:\saved\cc\cc\bin\Debug\cc.pdb
+G:\saved\cc\cc\obj\Debug\cc.Form1.resources
+G:\saved\cc\cc\obj\Debug\cc.Properties.Resources.resources
+G:\saved\cc\cc\obj\Debug\cc.csproj.GenerateResource.cache
+G:\saved\cc\cc\obj\Debug\cc.exe
+G:\saved\cc\cc\obj\Debug\cc.pdb
+G:\saved\cc\cc\obj\Debug\cc.csprojResolveAssemblyReference.cache
